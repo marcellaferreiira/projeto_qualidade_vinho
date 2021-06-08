@@ -28,11 +28,10 @@ A lógica para análise foi baseada:
      -Tratamento de outliers
      -Correlação de variáveis dependentes
      
-<b> 4- Observar se possíveis variantes influenciam da qualidade do vinho
+<b> 4- Observar se possíveis variantes influenciam da qualidade do vinho </b> </br>
   
-  <b> 5- Análise gráfica </b> </br>
-  
-  
+<b> 5- Análise gráfica </b> </br>
+ 
 
     - Contagem de valores
     - Análise da distribuição
